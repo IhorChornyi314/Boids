@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2e0958e-72b8-4aa5-b471-7339e8ed9526" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Spawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Entities/BirdEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Components/DirectionComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.collections@0.8.0-preview.5/Unity.Collections/NativeList.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NonEcsScripts/MassCenterNoECS.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Systems/VelocityAlignSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NonEcsScripts/MassVelocityNoECS.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.10.0-preview.6/Unity.Entities/ComponentSystemBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Quadrants.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Systems/CreateQuadrantsSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Systems/MassCenterPullSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Components/MoveData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Systems/DistanceMaintainSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Systems/MoveSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Systems/DistanceMaintainSystemNoQuadrants.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Entities/BirdEntity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Systems/MassCenterPullSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Quadrants.cs" />
+        <option value="$PROJECT_DIR$/Assets/Components/MoveData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Components/DirectionComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Systems/VelocityAlignSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Spawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/BirdNoECS.cs" />
+        <option value="$PROJECT_DIR$/Assets/NonEcsScripts/MassVelocityNoECS.cs" />
+        <option value="$PROJECT_DIR$/Assets/NonEcsScripts/MassCenterNoECS.cs" />
+        <option value="$PROJECT_DIR$/Assets/Systems/MoveSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Systems/DistanceMaintainSystemNoQuadrants.cs" />
+        <option value="$PROJECT_DIR$/Assets/Systems/DistanceMaintainSystem.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bJjXsZxvntFLLxxQXcVnPzV2Lh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2e0958e-72b8-4aa5-b471-7339e8ed9526" name="Default Changelist" comment="" />
+      <created>1588357133407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588357133407</updated>
+      <workItem from="1588357137337" duration="1768000" />
+      <workItem from="1588366290455" duration="3623000" />
+      <workItem from="1588419376503" duration="6109000" />
+      <workItem from="1588425577507" duration="23870000" />
+      <workItem from="1588502421965" duration="1817000" />
+      <workItem from="1588505466642" duration="2311000" />
+      <workItem from="1608304693959" duration="2300000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2517" height="492" key="GridCell.Tab.0.bottom" timestamp="1588425566023">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1588425566023" />
+    <state width="2517" height="492" key="GridCell.Tab.0.center" timestamp="1588425566023">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1588425566023" />
+    <state width="2517" height="492" key="GridCell.Tab.0.left" timestamp="1588425566023">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1588425566023" />
+    <state width="2517" height="492" key="GridCell.Tab.0.right" timestamp="1588425566023">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1588425566023" />
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom" timestamp="1588425566023">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1588425566023" />
+    <state width="2517" height="492" key="GridCell.Tab.1.center" timestamp="1588425566023">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1588425566023" />
+    <state width="2517" height="492" key="GridCell.Tab.1.left" timestamp="1588425566023">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1588425566023" />
+    <state width="2517" height="492" key="GridCell.Tab.1.right" timestamp="1588425566023">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1588425566023" />
+    <state width="2517" height="492" key="GridCell.Tab.2.bottom" timestamp="1588425566024">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.2.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1588425566024" />
+    <state width="2517" height="492" key="GridCell.Tab.2.center" timestamp="1588425566024">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.2.center/0.0.2560.1400@0.0.2560.1400" timestamp="1588425566024" />
+    <state width="2517" height="492" key="GridCell.Tab.2.left" timestamp="1588425566024">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.2.left/0.0.2560.1400@0.0.2560.1400" timestamp="1588425566024" />
+    <state width="2517" height="492" key="GridCell.Tab.2.right" timestamp="1588425566024">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.2.right/0.0.2560.1400@0.0.2560.1400" timestamp="1588425566024" />
+    <state width="2517" height="492" key="GridCell.Tab.3.bottom" timestamp="1588425566024">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.3.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1588425566024" />
+    <state width="2517" height="492" key="GridCell.Tab.3.center" timestamp="1588425566024">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.3.center/0.0.2560.1400@0.0.2560.1400" timestamp="1588425566024" />
+    <state width="2517" height="492" key="GridCell.Tab.3.left" timestamp="1588425566024">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.3.left/0.0.2560.1400@0.0.2560.1400" timestamp="1588425566024" />
+    <state width="2517" height="492" key="GridCell.Tab.3.right" timestamp="1588425566024">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.3.right/0.0.2560.1400@0.0.2560.1400" timestamp="1588425566024" />
+    <state x="92" y="92" width="2376" height="1216" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1588439899423">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="92" y="92" width="2376" height="1216" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1588439899423" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1588432951663">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1588432951663" />
+  </component>
+</project>
